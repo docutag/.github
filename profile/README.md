@@ -2,7 +2,7 @@
 
 **AI-Powered Web Content Processing Platform**
 
-DocuTag is a microservices-based platform built in Go that scrapes web pages, extracts content using AI, and performs comprehensive text analysis. Perfect for building searchable knowledge bases and content repositories.
+DocuTag is a microservices-based platform built in Go that scrapes web pages or ingests documents and images, extracts content and metadata using AI and heuristic algorithms, and performs comprehensive text analysis. Perfect for building searchable knowledge bases and content repositories.
 
 ## 🚀 Main Repository
 
